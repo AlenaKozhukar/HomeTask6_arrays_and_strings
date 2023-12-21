@@ -1,0 +1,15 @@
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\bin\Debug\net8.0\HomeTask6_arrays_and_strings.exe
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\bin\Debug\net8.0\HomeTask6_arrays_and_strings.deps.json
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\bin\Debug\net8.0\HomeTask6_arrays_and_strings.runtimeconfig.json
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\bin\Debug\net8.0\HomeTask6_arrays_and_strings.dll
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\bin\Debug\net8.0\HomeTask6_arrays_and_strings.pdb
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\HomeTask6_arrays_and_strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\HomeTask6_arrays_and_strings.AssemblyInfoInputs.cache
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\HomeTask6_arrays_and_strings.AssemblyInfo.cs
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\HomeTask6_arrays_and_strings.csproj.CoreCompileInputs.cache
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\HomeTask6_arrays_and_strings.sourcelink.json
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\HomeTask6_arrays_and_strings.dll
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\refint\HomeTask6_arrays_and_strings.dll
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\HomeTask6_arrays_and_strings.pdb
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\HomeTask6_arrays_and_strings.genruntimeconfig.cache
+D:\Курс Разработчик\Знакомство с языками программирования\HomeTask6_arrays_and_strings\HomeTask6_arrays_and_strings\obj\Debug\net8.0\ref\HomeTask6_arrays_and_strings.dll
